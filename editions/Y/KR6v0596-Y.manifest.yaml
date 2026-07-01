@@ -1,0 +1,960 @@
+canonical_identifier: bkk:krp/KR6v0596/Y/v1
+canonical_location: https://kanripo.org/bkk/KR6v0596/Y/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 我之宗教觀
+  identifiers:
+    krp: KR6v0596
+    cbeta: Y19n0019
+    cbeta_old_id: Y19n0019
+    authorityid: CA0008338
+    json_key: Y0019
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/Y/Y19/Y19n0019.xml
+    old_id: Y19n0019
+  edition:
+    short: 'Y'
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0596_001-Y.yaml, hash: 'sha256:35808ca822d8b5d1e0cd88499c603f86854c51410da4cb343b2c457e4792e22f'}
+  - {seq: 2, filename: KR6v0596_002-Y.yaml, hash: 'sha256:557376853b31207341919bf330b631d5569bc5bac12db1e8d897a0f3bf16fc72'}
+  - {seq: 3, filename: KR6v0596_003-Y.yaml, hash: 'sha256:ec93f4ceaa7c41e6a79339d8d7f0c23e3c7bfb21a9ede6d9950950e810e53451'}
+  - {seq: 4, filename: KR6v0596_004-Y.yaml, hash: 'sha256:e1aeb4f8307424e020d778b2d4e2b668e7755817cd5f5c1205e3e5626e6f52aa'}
+  - {seq: 5, filename: KR6v0596_005-Y.yaml, hash: 'sha256:adf99236f978bf916b652bac73afda3228dc2396e84b1ff1d8acbe605b4ca1ec'}
+  - {seq: 6, filename: KR6v0596_006-Y.yaml, hash: 'sha256:b3337351a6c1ebcb006c86a6605e8ae222e473440e9f0afd68715ee2a2c2d1c6'}
+  - {seq: 7, filename: KR6v0596_007-Y.yaml, hash: 'sha256:5ef8b096e98f7b83b77dd6eaee6d4d48f9009392cc32764409ef99678b94c7f3'}
+  - {seq: 8, filename: KR6v0596_008-Y.yaml, hash: 'sha256:df96ca38929d913e370d936854317d0b0f8d0fb1aee7ebbaa63f43b286a2edf9'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0596_001-Y.markers.yaml, hash: 'sha256:43132d2d599a2498a1e6f344cf35062d28dbec4308e02a964329c9f654e92b3d'}
+  - {seq: 2, role: markers, filename: assets/KR6v0596_002-Y.markers.yaml, hash: 'sha256:bb2730ea0858b747a27aa8f2c2ba62812c4fb5398e17437f40c1a83af54c8527'}
+  - {seq: 3, role: markers, filename: assets/KR6v0596_003-Y.markers.yaml, hash: 'sha256:d7517b51305804d07bece6354f3dbf6dc560b3a642a9ea7dd02d34d69313e44e'}
+  - {seq: 4, role: markers, filename: assets/KR6v0596_004-Y.markers.yaml, hash: 'sha256:b11027d35a6ac0d19a1831230c22ca6a7cdfdda9ede1d606383fb879ad4a9dca'}
+  - {seq: 5, role: markers, filename: assets/KR6v0596_005-Y.markers.yaml, hash: 'sha256:23dedef6cef929764a58f67c6baf9cae6dcf23e4fcd9726509281e452bb0bc53'}
+  - {seq: 6, role: markers, filename: assets/KR6v0596_006-Y.markers.yaml, hash: 'sha256:7d6eb7a9f100707046d57dbe05c088b346a52539a3316de6af8b54efb3a92b13'}
+  - {seq: 7, role: markers, filename: assets/KR6v0596_007-Y.markers.yaml, hash: 'sha256:f57ac8a86fcc3bc8410cf319cbf32fe56be7c4cf192bfd14b963a7840dda6d43'}
+  - {seq: 8, role: markers, filename: assets/KR6v0596_008-Y.markers.yaml, hash: 'sha256:3a13a7868c313f1ab5971ffc15450e6f5dc13f5e3a325c48501fb0da5fbb9c71'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0596_Y_001-juan-start
+    span:
+    - body
+    - 0
+    - 10124
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0596_Y_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 一、我之宗教觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0596_Y_001-mulu-2
+    span:
+    - body
+    - 224
+    - 224
+  label: 一　宗教之意義——自證．化他
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0596_Y_001-mulu-3
+    span:
+    - body
+    - 1451
+    - 1451
+  label: 二　宗教之本質——人類意欲的表現
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0596_Y_001-mulu-4
+    span:
+    - body
+    - 3164
+    - 3164
+  label: 三　宗教之特性——順從．超脫
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0596_Y_001-mulu-5
+    span:
+    - body
+    - 4369
+    - 4369
+  label: 四　宗教的層次——多神．一神．梵我．唯心．正覺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0596_Y_001-mulu-6
+    span:
+    - body
+    - 5907
+    - 5907
+  label: 五　宗教的類別——自然宗教．社會宗教．自我宗教
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0596_Y_001-mulu-7
+    span:
+    - body
+    - 7246
+    - 7246
+  label: 六　宗教之價值——強化自己．淨化自己
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0596_Y_001-mulu-8
+    span:
+    - body
+    - 8403
+    - 8403
+  label: 七　宗教理想之實現——永生．無生．新生
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0596_Y_002-juan-start
+    span:
+    - body
+    - 0
+    - 8629
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0596_Y_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 二、中國的宗教興衰與儒家
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0596_Y_003-juan-start
+    span:
+    - body
+    - 0
+    - 32037
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0596_Y_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 三、修身之道
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0596_Y_003-mulu-2
+    span:
+    - body
+    - 172
+    - 172
+  label: 一　儒佛之道大同
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0596_Y_003-mulu-3
+    span:
+    - body
+    - 179
+    - 179
+  label: 一、修身為本之道
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0596_Y_003-mulu-4
+    span:
+    - body
+    - 1190
+    - 1190
+  label: 二、大人之學
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0596_Y_003-mulu-5
+    span:
+    - body
+    - 2475
+    - 2475
+  label: 三、大道之二階與二類
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0596_Y_003-mulu-6
+    span:
+    - body
+    - 3785
+    - 3785
+  label: 二　道之宗要及其次第
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0596_Y_003-mulu-7
+    span:
+    - body
+    - 3794
+    - 3794
+  label: 一、學道之要在知
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0596_Y_003-mulu-8
+    span:
+    - body
+    - 5200
+    - 5200
+  label: 二、道要與道次之略說
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0596_Y_003-mulu-9
+    span:
+    - body
+    - 7449
+    - 7449
+  label: 三　格物以致其知（信成就）
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0596_Y_003-mulu-10
+    span:
+    - body
+    - 7459
+    - 7459
+  label: 一、約儒學說
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0596_Y_003-mulu-11
+    span:
+    - body
+    - 12127
+    - 12127
+  label: 二、約佛法說
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0596_Y_003-mulu-12
+    span:
+    - body
+    - 15523
+    - 15523
+  label: 四　誠意（戒成就）
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0596_Y_003-mulu-13
+    span:
+    - body
+    - 17136
+    - 17136
+  label: 五　正心（定成就）
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0596_Y_003-mulu-14
+    span:
+    - body
+    - 22770
+    - 22770
+  label: 六　修身（慧成就）
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0596_Y_003-mulu-15
+    span:
+    - body
+    - 27474
+    - 27474
+  label: 七　成就利他的道次——齊家治國平天下
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0596_Y_004-juan-start
+    span:
+    - body
+    - 0
+    - 9911
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0596_Y_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 四、人心與道心別說
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0596_Y_004-mulu-2
+    span:
+    - body
+    - 8
+    - 8
+  label: 一　序起
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0596_Y_004-mulu-3
+    span:
+    - body
+    - 1038
+    - 1038
+  label: 二　人心惟危
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0596_Y_004-mulu-4
+    span:
+    - body
+    - 1596
+    - 1596
+  label: 三　人心惟危的辨析
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0596_Y_004-mulu-5
+    span:
+    - body
+    - 4221
+    - 4221
+  label: 四　道心惟微惟精惟一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0596_Y_004-mulu-6
+    span:
+    - body
+    - 6313
+    - 6313
+  label: 五　論儒與道的執中
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0596_Y_004-mulu-7
+    span:
+    - body
+    - 8419
+    - 8419
+  label: 六　佛法的允執其中
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0596_Y_005-juan-start
+    span:
+    - body
+    - 0
+    - 13348
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0596_Y_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 五、上帝愛世人
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0596_Y_005-mulu-2
+    span:
+    - body
+    - 209
+    - 209
+  label: 一　上帝愛世人的根本立場
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0596_Y_005-mulu-3
+    span:
+    - body
+    - 220
+    - 220
+  label: 一、上帝的愛
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0596_Y_005-mulu-4
+    span:
+    - body
+    - 1459
+    - 1459
+  label: 二、這也算是愛世人嗎
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0596_Y_005-mulu-5
+    span:
+    - body
+    - 2678
+    - 2678
+  label: 三、站穩自己的立場
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0596_Y_005-mulu-6
+    span:
+    - body
+    - 4761
+    - 4761
+  label: 二　耶和華所喜悅的人——盲目無知識
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0596_Y_005-mulu-7
+    span:
+    - body
+    - 4775
+    - 4775
+  label: 一、不得知道善惡
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0596_Y_005-mulu-8
+    span:
+    - body
+    - 7611
+    - 7611
+  label: 二、承認自己無知
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0596_Y_005-mulu-9
+    span:
+    - body
+    - 8025
+    - 8025
+  label: 三、知識服從於信仰
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0596_Y_005-mulu-10
+    span:
+    - body
+    - 8935
+    - 8935
+  label: 三　耶和華所喜悅的人——分散無組識
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0596_Y_005-mulu-11
+    span:
+    - body
+    - 8949
+    - 8949
+  label: 一、分散集合
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0596_Y_005-mulu-12
+    span:
+    - body
+    - 10042
+    - 10042
+  label: 二、反對成立國家
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0596_Y_005-mulu-13
+    span:
+    - body
+    - 11487
+    - 11487
+  label: 三、叫人家庭分爭
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0596_Y_005-mulu-14
+    span:
+    - body
+    - 12131
+    - 12131
+  label: 四　一貫之道
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0596_Y_005-mulu-15
+    span:
+    - body
+    - 12136
+    - 12136
+  label: 一、結說
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0596_Y_005-mulu-16
+    span:
+    - body
+    - 13164
+    - 13164
+  label: 二、我的禱告
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0596_Y_006-juan-start
+    span:
+    - body
+    - 0
+    - 20541
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0596_Y_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 六、〈上帝愛世人〉的再討論
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0596_Y_006-mulu-2
+    span:
+    - body
+    - 209
+    - 209
+  label: 一　上帝與人的主奴關係
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0596_Y_006-mulu-3
+    span:
+    - body
+    - 219
+    - 219
+  label: 一、奴隸終究是奴隸
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0596_Y_006-mulu-4
+    span:
+    - body
+    - 2090
+    - 2090
+  label: 二、甘心作上帝的奴僕
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0596_Y_006-mulu-5
+    span:
+    - body
+    - 4533
+    - 4533
+  label: 三、我的三點感想
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0596_Y_006-mulu-6
+    span:
+    - body
+    - 6026
+    - 6026
+  label: 二　上帝所喜悅的人——盲目無知識
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0596_Y_006-mulu-7
+    span:
+    - body
+    - 6039
+    - 6039
+  label: 一、到底是誰錯了
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0596_Y_006-mulu-8
+    span:
+    - body
+    - 8130
+    - 8130
+  label: 二、不成理由的理由
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0596_Y_006-mulu-9
+    span:
+    - body
+    - 10142
+    - 10142
+  label: 三　上帝所喜悅的人——分散無組織
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0596_Y_006-mulu-10
+    span:
+    - body
+    - 10155
+    - 10155
+  label: 一、上帝干涉人類集合的真正理由
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0596_Y_006-mulu-11
+    span:
+    - body
+    - 11291
+    - 11291
+  label: 二、上帝不願人類有國家組織
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0596_Y_006-mulu-12
+    span:
+    - body
+    - 11879
+    - 11879
+  label: 三、家庭鬥爭的宗教傳統
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0596_Y_006-mulu-13
+    span:
+    - body
+    - 13607
+    - 13607
+  label: 四　清道夫的煩惱
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0596_Y_006-mulu-14
+    span:
+    - body
+    - 13684
+    - 13684
+  label: 一、戰略與戰鬥力
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0596_Y_006-mulu-15
+    span:
+    - body
+    - 14010
+    - 14010
+  label: 二、和尚與道士
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0596_Y_006-mulu-16
+    span:
+    - body
+    - 14194
+    - 14194
+  label: 三、吃耶穌飯
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0596_Y_006-mulu-17
+    span:
+    - body
+    - 14540
+    - 14540
+  label: 四、名與利
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0596_Y_006-mulu-18
+    span:
+    - body
+    - 14876
+    - 14876
+  label: 五、張獻忠的宗教觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0596_Y_006-mulu-19
+    span:
+    - body
+    - 15757
+    - 15757
+  label: 六、洩漏天機
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0596_Y_006-mulu-20
+    span:
+    - body
+    - 16951
+    - 16951
+  label: 七、組織力與知識
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0596_Y_006-mulu-21
+    span:
+    - body
+    - 17721
+    - 17721
+  label: 八、拋紅帽子
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0596_Y_006-mulu-22
+    span:
+    - body
+    - 18784
+    - 18784
+  label: 九、大罵特罵
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0596_Y_006-mulu-23
+    span:
+    - body
+    - 20362
+    - 20362
+  label: 十、清道夫的煩惱
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0596_Y_007-juan-start
+    span:
+    - body
+    - 0
+    - 8516
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0596_Y_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 七、上帝與耶和華之間
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0596_Y_007-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: 一　摩西傳揚的耶和華
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0596_Y_007-mulu-3
+    span:
+    - body
+    - 18
+    - 18
+  label: 一、耶和華是誰
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0596_Y_007-mulu-4
+    span:
+    - body
+    - 806
+    - 806
+  label: 二、耶和華是何烈山的神
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0596_Y_007-mulu-5
+    span:
+    - body
+    - 1704
+    - 1704
+  label: 三、耶和華的原始面目
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0596_Y_007-mulu-6
+    span:
+    - body
+    - 2982
+    - 2982
+  label: 四、摩西新宗教的來源
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0596_Y_007-mulu-7
+    span:
+    - body
+    - 3656
+    - 3656
+  label: 二　以色列舊有的上帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0596_Y_007-mulu-8
+    span:
+    - body
+    - 3665
+    - 3665
+  label: 一、這就是領你們出埃及的神
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0596_Y_007-mulu-9
+    span:
+    - body
+    - 4654
+    - 4654
+  label: 二、牛是以色列的上帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0596_Y_007-mulu-10
+    span:
+    - body
+    - 5913
+    - 5913
+  label: 三、神聖的牛
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0596_Y_007-mulu-11
+    span:
+    - body
+    - 6330
+    - 6330
+  label: 三　耶和華與上帝的合一
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0596_Y_007-mulu-12
+    span:
+    - body
+    - 6340
+    - 6340
+  label: 一、人為的結合
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0596_Y_007-mulu-13
+    span:
+    - body
+    - 6668
+    - 6668
+  label: 二、自然的對立
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0596_Y_008-juan-start
+    span:
+    - body
+    - 0
+    - 2047
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0596_Y_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 八、我怎樣選擇了佛教
+  type: mulu
+  level: 1
+hash: sha256:fb8b8e71ef0fbd86d45766b78f94fd0314c27776a11ed5bdc957509b18151b88
